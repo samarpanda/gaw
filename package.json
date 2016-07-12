@@ -1,0 +1,24 @@
+{
+  "name": "gaw",
+  "version": "1.0.0",
+  "description": "Bootstrap react & redux application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samarpanda/gaw.git"
+  },
+  "keywords": [
+    "React",
+    "Redux",
+    "application"
+  ],
+  "author": "er.samarpanda@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samarpanda/gaw/issues"
+  },
+  "homepage": "https://github.com/samarpanda/gaw#readme"
+}
